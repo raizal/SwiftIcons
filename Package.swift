@@ -1,3 +1,4 @@
+// swift-tools-version:5.2
 //  The MIT License (MIT)
 //
 //  Copyright © 2017 Saurabh Rane
