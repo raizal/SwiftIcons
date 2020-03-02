@@ -24,5 +24,8 @@
 import PackageDescription
 
 let package = Package(
-    name: "SwiftIcons"
+    name: "SwiftIcons",
+    platforms: [
+        .iOS(.v13),
+    ]
 )

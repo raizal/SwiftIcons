@@ -15,7 +15,7 @@ public struct FontelloGlyph: Hashable, Decodable {
     }
     fileprivate var code: Int
     var icon: String {
-        String(format:"\u{%x}", self.code)
+        String(format:"\\u{%x}", self.code)
     }
 }
 
