@@ -43,6 +43,8 @@
 		A67D28A51E42445F005765A0 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = A67D28A41E42445F005765A0 /* LICENSE */; };
 		A6945A391E8D3D87004AA743 /* SwiftIcons.podspec in Resources */ = {isa = PBXBuildFile; fileRef = A6945A381E8D3D87004AA743 /* SwiftIcons.podspec */; };
 		A6945A3B1E8D406B004AA743 /* .swift-version in Resources */ = {isa = PBXBuildFile; fileRef = A6945A3A1E8D406B004AA743 /* .swift-version */; };
+		CC667D669E4F55BAF4BA8206 /* FontelloFormat.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC667ED4E01C990EDEEA45BB /* FontelloFormat.swift */; };
+		CC667D6C4A778AE760A3A143 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC66712B9D25B39CD2EF4DE8 /* Utils.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -123,6 +125,8 @@
 		A6945A3A1E8D406B004AA743 /* .swift-version */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ".swift-version"; sourceTree = SOURCE_ROOT; };
 		A6BD3B5A1EA154D100F2CF09 /* CHANGELOG.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = CHANGELOG.md; sourceTree = SOURCE_ROOT; };
 		A6DDCFA51E40E4A600191F5C /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo.png; path = resources/logo.png; sourceTree = "<group>"; };
+		CC66712B9D25B39CD2EF4DE8 /* Utils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
+		CC667ED4E01C990EDEEA45BB /* FontelloFormat.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FontelloFormat.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -158,6 +162,8 @@
 				4389E5E820FE8FCB00175651 /* Fonts */,
 				4389E5F720FE8FCB00175651 /* Info.plist */,
 				4389E5F820FE8FCB00175651 /* SwiftIcons.swift */,
+				CC66712B9D25B39CD2EF4DE8 /* Utils.swift */,
+				CC667ED4E01C990EDEEA45BB /* FontelloFormat.swift */,
 			);
 			path = Source;
 			sourceTree = "<group>";
@@ -419,6 +425,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				4389E61920FE91DE00175651 /* SwiftIcons.swift in Sources */,
+				CC667D6C4A778AE760A3A143 /* Utils.swift in Sources */,
+				CC667D669E4F55BAF4BA8206 /* FontelloFormat.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
