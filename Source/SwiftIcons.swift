@@ -1369,19 +1369,24 @@ public enum TypIconsType: Int {
 
 private let typIcons = ["\u{e000}", "\u{e001}", "\u{e002}", "\u{e003}", "\u{e004}", "\u{e005}", "\u{e006}", "\u{e007}", "\u{e008}", "\u{e009}", "\u{e00a}", "\u{e00b}", "\u{e00c}", "\u{e00d}", "\u{e00e}", "\u{e00f}", "\u{e010}", "\u{e011}", "\u{e012}", "\u{e013}", "\u{e014}", "\u{e015}", "\u{e016}", "\u{e017}", "\u{e018}", "\u{e019}", "\u{e01a}", "\u{e01b}", "\u{e01c}", "\u{e01d}", "\u{e01e}", "\u{e01f}", "\u{e020}", "\u{e021}", "\u{e022}", "\u{e023}", "\u{e024}", "\u{e025}", "\u{e026}", "\u{e027}", "\u{e028}", "\u{e029}", "\u{e02a}", "\u{e02b}", "\u{e02c}", "\u{e02d}", "\u{e02e}", "\u{e02f}", "\u{e030}", "\u{e031}", "\u{e032}", "\u{e033}", "\u{e034}", "\u{e035}", "\u{e036}", "\u{e037}", "\u{e038}", "\u{e039}", "\u{e03a}", "\u{e03b}", "\u{e03c}", "\u{e03d}", "\u{e03e}", "\u{e03f}", "\u{e040}", "\u{e041}", "\u{e042}", "\u{e043}", "\u{e044}", "\u{e045}", "\u{e046}", "\u{e047}", "\u{e048}", "\u{e049}", "\u{e04a}", "\u{e04b}", "\u{e054}", "\u{e04c}", "\u{e04d}", "\u{e04e}", "\u{e04f}", "\u{e050}", "\u{e051}", "\u{e052}", "\u{e053}", "\u{e055}", "\u{e056}", "\u{e057}", "\u{e058}", "\u{e059}", "\u{e05a}", "\u{e05b}", "\u{e05c}", "\u{e05d}", "\u{e05e}", "\u{e05f}", "\u{e060}", "\u{e061}", "\u{e062}", "\u{e063}", "\u{e064}", "\u{e065}", "\u{e066}", "\u{e067}", "\u{e068}", "\u{e069}", "\u{e06a}", "\u{e06b}", "\u{e06c}", "\u{e06d}", "\u{e06e}", "\u{e06f}", "\u{e070}", "\u{e071}", "\u{e072}", "\u{e073}", "\u{e074}", "\u{e075}", "\u{e076}", "\u{e077}", "\u{e078}", "\u{e079}", "\u{e07a}", "\u{e07b}", "\u{e07c}", "\u{e07d}", "\u{e07e}", "\u{e07f}", "\u{e080}", "\u{e081}", "\u{e082}", "\u{e083}", "\u{e084}", "\u{e085}", "\u{e086}", "\u{e087}", "\u{e088}", "\u{e089}", "\u{e08a}", "\u{e08b}", "\u{e08c}", "\u{e08d}", "\u{e08e}", "\u{e08f}", "\u{e090}", "\u{e091}", "\u{e092}", "\u{e093}", "\u{e094}", "\u{e095}", "\u{e096}", "\u{e097}", "\u{e098}", "\u{e099}", "\u{e09a}", "\u{e09b}", "\u{e09c}", "\u{e09d}", "\u{e09e}", "\u{e09f}", "\u{e0a0}", "\u{e0a1}", "\u{e0a2}", "\u{e0a3}", "\u{e0a4}", "\u{e0a5}", "\u{e0a6}", "\u{e0a7}", "\u{e0a8}", "\u{e0a9}", "\u{e0aa}", "\u{e0ab}", "\u{e0ac}", "\u{e0ad}", "\u{e0ae}", "\u{e0af}", "\u{e0b0}", "\u{e0b1}", "\u{e0b2}", "\u{e0b3}", "\u{e0b4}", "\u{e0b5}", "\u{e0b6}", "\u{e0b7}", "\u{e0b8}", "\u{e0b9}", "\u{e0ba}", "\u{e0bb}", "\u{e0bc}", "\u{e0bd}", "\u{e0be}", "\u{e0bf}", "\u{e0c0}", "\u{e0c1}", "\u{e0c2}", "\u{e0c3}", "\u{e0c4}", "\u{e0c5}", "\u{e0c6}", "\u{e0c7}", "\u{e0c8}", "\u{e0c9}", "\u{e0ca}", "\u{e0cb}", "\u{e0cc}", "\u{e0cd}", "\u{e0ce}", "\u{e0cf}", "\u{e0d0}", "\u{e0d1}", "\u{e0d2}", "\u{e0d3}", "\u{e0d4}", "\u{e0d5}", "\u{e0d6}", "\u{e0d7}", "\u{e0d8}", "\u{e0d9}", "\u{e0da}", "\u{e0db}", "\u{e0dc}", "\u{e0dd}", "\u{e0de}", "\u{e0df}", "\u{e0e0}", "\u{e0e1}", "\u{e0e2}", "\u{e0e3}", "\u{e0e4}", "\u{e0e5}", "\u{e0e6}", "\u{e0e7}", "\u{e0e8}", "\u{e0e9}", "\u{e0ea}", "\u{e0eb}", "\u{e0ec}", "\u{e0ed}", "\u{e0ee}", "\u{e0ef}", "\u{e0f0}", "\u{e0f1}", "\u{e0f2}", "\u{e0f3}", "\u{e0f4}", "\u{e0f5}", "\u{e0f6}", "\u{e0f7}", "\u{e0f8}", "\u{e0f9}", "\u{e0fa}", "\u{e0fb}", "\u{e0fc}", "\u{e0fd}", "\u{e0fe}", "\u{e0ff}", "\u{e100}", "\u{e101}", "\u{e102}", "\u{e103}", "\u{e104}", "\u{e105}", "\u{e106}", "\u{e107}", "\u{e108}", "\u{e109}", "\u{e10a}", "\u{e10b}", "\u{e10c}", "\u{e10d}", "\u{e10e}", "\u{e10f}", "\u{e110}", "\u{e111}", "\u{e112}", "\u{e113}", "\u{e114}", "\u{e115}", "\u{e116}", "\u{e117}", "\u{e118}", "\u{e119}", "\u{e11a}", "\u{e11b}", "\u{e11c}", "\u{e11d}", "\u{e11e}", "\u{e11f}", "\u{e120}", "\u{e121}", "\u{e122}", "\u{e123}", "\u{e124}", "\u{e125}", "\u{e126}", "\u{e127}", "\u{e128}", "\u{e129}", "\u{e12a}", "\u{e12b}", "\u{e12c}", "\u{e12d}", "\u{e12e}", "\u{e12f}", "\u{e130}", "\u{e131}", "\u{e132}", "\u{e133}", "\u{e134}", "\u{e135}", "\u{e136}", "\u{e137}", "\u{e138}", "\u{e139}", "\u{e13a}", "\u{e13b}", "\u{e13c}", "\u{e13d}", "\u{e13e}", "\u{e13f}", "\u{e140}", "\u{e141}", "\u{e142}", "\u{e143}", "\u{e144}", "\u{e145}", "\u{e146}", "\u{e147}", "\u{e148}", "\u{e149}", "\u{e14a}", "\u{e14b}", "\u{e14c}", "\u{e14d}", "\u{e14e}", "\u{e14f}"]
 
-private var fontelloIcons: [String] = nil
+private var fontelloIcons: [String] = []
 
-private var fontelloIconNames: [String] = nil
+private var fontelloIconNames: [String] = []
 
 public enum FontelloCustomType: Int {
     
-    init() {
-        var font: FontelloFormat = load("travlr_icons.config")
+    init?(_ iconName: String) {
+        if (fontelloIcons.count === 0) {
+            var font: FontelloFormat = load("travlr_icons.config")
 
-        fontelloIcons = font.iconsCode
-        fontelloIconNames = font.iconNames
+            fontelloIcons = font.iconsCode
+            fontelloIconNames = font.iconNames
+        }
+        switch iconNames {
+            default: fontelloIcons[fontelloIconNames.firstIndex(of: iconName)]
+        }
     }
-    
+
     public static var count: Int {
         fontelloIcons.count
     }
