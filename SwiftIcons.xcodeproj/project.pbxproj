@@ -43,6 +43,8 @@
 		A67D28A51E42445F005765A0 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = A67D28A41E42445F005765A0 /* LICENSE */; };
 		A6945A391E8D3D87004AA743 /* SwiftIcons.podspec in Resources */ = {isa = PBXBuildFile; fileRef = A6945A381E8D3D87004AA743 /* SwiftIcons.podspec */; };
 		A6945A3B1E8D406B004AA743 /* .swift-version in Resources */ = {isa = PBXBuildFile; fileRef = A6945A3A1E8D406B004AA743 /* .swift-version */; };
+		CC667543FC10676963DA2960 /* travlr_icons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CC667EF942A66443EE4C52A3 /* travlr_icons.ttf */; };
+		CC667F1D2A2EE1BEA7DA16AC /* travlr_icons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CC667EF942A66443EE4C52A3 /* travlr_icons.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -123,6 +125,7 @@
 		A6945A3A1E8D406B004AA743 /* .swift-version */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ".swift-version"; sourceTree = SOURCE_ROOT; };
 		A6BD3B5A1EA154D100F2CF09 /* CHANGELOG.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = CHANGELOG.md; sourceTree = SOURCE_ROOT; };
 		A6DDCFA51E40E4A600191F5C /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo.png; path = resources/logo.png; sourceTree = "<group>"; };
+		CC667EF942A66443EE4C52A3 /* travlr_icons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file.ttf; path = travlr_icons.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -180,6 +183,7 @@
 				4389E5F420FE8FCB00175651 /* Emoji.ttf */,
 				4389E5F520FE8FCB00175651 /* FontAwesomeBrands.ttf */,
 				4389E5F620FE8FCB00175651 /* MaterialIcons.ttf */,
+				CC667EF942A66443EE4C52A3 /* travlr_icons.ttf */,
 			);
 			path = Fonts;
 			sourceTree = "<group>";
@@ -388,6 +392,7 @@
 				4389E61520FE91D400175651 /* Emoji.ttf in Resources */,
 				4389E60A20FE91D400175651 /* Icofont.ttf in Resources */,
 				4389E61320FE91D400175651 /* Stateface.ttf in Resources */,
+				CC667F1D2A2EE1BEA7DA16AC /* travlr_icons.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -401,6 +406,7 @@
 				A6945A3B1E8D406B004AA743 /* .swift-version in Resources */,
 				A605C1391E37A9EF0079765A /* Main.storyboard in Resources */,
 				A6945A391E8D3D87004AA743 /* SwiftIcons.podspec in Resources */,
+				CC667543FC10676963DA2960 /* travlr_icons.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
